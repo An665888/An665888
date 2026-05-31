@@ -37,7 +37,7 @@ A web-based application that detects AI-generated or manipulated videos using ad
 * Offline fallback mode
 * User-friendly interface
 
-🔗 Project Link: https://github.com/[her-username]/Truthlens
+🔗 Project Link: https://github.com/An665888/TruthLens-AIProject
 
 ---
 
